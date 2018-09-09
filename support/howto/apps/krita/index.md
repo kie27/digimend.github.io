@@ -29,8 +29,8 @@ Unfortunately QT 4.8 is not compatible with the evdev driver, so the
 pen's pressure will not affect anything.
 
 This bug has been reported to the QT bugtracker
-[https://bugreports.qt-project.org/browse/QTBUG-25329 here]. You may sign up
-to that site and vote for this bug.
+[https://bugreports.qt-project.org/browse/QTBUG-25329 here].
+You may sign up to that site and file a new bug. -- this bug was listed as Resolved: 21 Sep '15 10:08 AM.
 
 In the comments of that bug you can find some tips how to make the library
 evdev compatible. There is a lot of applications using this library, using a
